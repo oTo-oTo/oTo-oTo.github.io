@@ -17,6 +17,6 @@ int main(int argc, char** argv) {
     std::cout << "a * b = " << mult(a, b) << std::endl ;
     std::cout << "a + b = " << sum(a, b) << std::endl ;
     std::cout << "Hello world!" << std::endl ;
-    print(c) ;
+    PrintANumber(c) ;
     return 0 ;
 }
